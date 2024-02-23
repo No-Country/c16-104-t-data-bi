@@ -43,7 +43,8 @@ Nuestro proyecto se dedica a verificar las diferentes ventas de un e-commerce a 
 | CustomerNo | Número de Cliente |
 | Country  | País de procedencia del Cliente|
 
-## Personas-Desarrolladores del Proyecto:
-Cristian Lepra
-Julia Panei
-Duvan Camilo
+## Personas-Desarrolladoras del Proyecto:
+| Franco  Ordelli |
+| Cristian Lepra  |
+| Julia Panei     |
+| Duvan Espinel   |
