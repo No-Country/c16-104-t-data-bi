@@ -2,11 +2,11 @@
 
 Somos un grupo pequeño pero apasionado de científicos de datos de diferentes partes del mundo que nos hemos unido por un objetivo común: demostrar el poder de la ciencia de datos para obtener respuestas mejor fundamentadas a las preguntas que nos rodean.
 
-<em> # Análisis de Ventas de un E-Commerce <em> 
+# Análisis de Ventas de un E-Commerce 
 
 ![_E-Commerce Logo](https://github.com/No-Country/c16-104-t-data-bi/assets/114622846/cc2f3ed2-ec44-4a2c-82fb-7b6bb5220b74)
 
-##Índice
+## Índice
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
 
