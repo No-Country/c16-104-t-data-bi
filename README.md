@@ -45,6 +45,9 @@ Nuestro proyecto se dedica a verificar las diferentes ventas de un e-commerce a 
 
 ## Personas-Desarrolladoras del Proyecto:
 | Franco  Ordelli |
+
 | Cristian Lepra  |
+
 | Julia Panei     |
+
 | Duvan Espinel   |
