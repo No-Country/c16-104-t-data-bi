@@ -45,9 +45,9 @@ Nuestro proyecto se dedica a verificar las diferentes ventas de un e-commerce a 
 
 
 ## Personas-Desarrolladoras del Proyecto:
-| Función | Nombre |
+| Función | Nombre | País |
 | --------- | --------- |
-| Científico de Datos| Cristian Lepra |
-| Científico de Datos | Julia Panei |
-| Científico de Datos | Duvan Espinel |
-| Team Leader | Franco  Ordelli |
+| Científico de Datos| Cristian Lepra | Uruguay |
+| Científico de Datos | Julia Panei | Argentina |
+| Científico de Datos | Duvan Espinel | Colómbia |
+| Team Leader | Franco  Ordelli | Argentina |
