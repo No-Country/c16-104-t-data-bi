@@ -43,11 +43,11 @@ Nuestro proyecto se dedica a verificar las diferentes ventas de un e-commerce a 
 | CustomerNo | Número de Cliente |
 | Country  | País de procedencia del Cliente|
 
+
 ## Personas-Desarrolladoras del Proyecto:
-| Franco  Ordelli |
-
-| Cristian Lepra  |
-
-| Julia Panei     |
-
-| Duvan Espinel   |
+| Función | Nombre |
+| --------- | --------- |
+| Científico de Datos| Cristian Lepra |
+| Científico de Datos | Julia Panei |
+| Científico de Datos | Duvan Espinel |
+| Team Leader | Franco  Ordelli |
